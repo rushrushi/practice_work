@@ -40,9 +40,10 @@ button{
 
 @media (max-width: 600px) {
    main{
-       margin-top: 40%;
+       margin-top: 10%;
    }
    button{
         margin-left: 30%;
    }
+
 }
